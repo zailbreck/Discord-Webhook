@@ -1,7 +1,7 @@
 <?php
 
 //Your Webhook URL
-$url = "https://discordapp.com/api/webhooks/704433267876823102/79toAnNSBaR4yaEtFVHf-hZMFZYchu8zbVQUQJlkL-BQEBlkeTi3-4p9wjeoU3m1xGBn";
+$url = "YOUR_URL_WEBHOOK";
 
 $payload = json_encode(array(
     'username' => "Mikroskil Bot",
