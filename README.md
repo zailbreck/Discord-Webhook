@@ -1,5 +1,5 @@
-# DiscordBOT
-Simple Discord BOT using cURL and PHP
+# DiscordHook
+Simple Discord Webhook using cURL and PHP
 
 
 Thx https://github.com/nopjmp
